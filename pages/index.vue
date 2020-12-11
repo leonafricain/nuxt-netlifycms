@@ -2,7 +2,7 @@
   <div class="main text-center flex flex-col items-center justify-center">
     <!-- <logo /> -->
     <h1 class="title">Nuxt — Tailwind — Netlify CMS</h1>
-    <h2 class="subtitle">Le site</h2>
+    <h2 class="subtitle">Le site qui me taquine</h2>
   </div>
 </template>
 
