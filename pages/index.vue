@@ -3,6 +3,8 @@
     <!-- <logo /> -->
     <h1 class="title">Nuxt — Tailwind — Netlify CMS</h1>
     <h2 class="subtitle">Le site qui me taquine</h2>
+    <h3>ce site est cool....</h3>
+    
   </div>
 </template>
 
@@ -15,8 +17,8 @@ export default {
   // },
   head() {
     return {
-      script: [{ src: 'https://identity.netlify.com/v1/netlify-identity-widget.js' }]
+      script: [{ src: 'https://identity.netlify.com/v1/netlify-identity-widget.js' }],
     }
-  }
+  },
 }
 </script>
